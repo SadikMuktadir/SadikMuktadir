@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sadikmuktadir2.0@gmail.com**
 
-- 📄 Know about my experiences [ResumeLink](ResumeLink)
+- 📄 Know about my experiences <a href="../../public/logo/Md Sadik Moktadir Mithun.pdf" download>Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
