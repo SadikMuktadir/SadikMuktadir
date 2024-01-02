@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React,Node,MongoDB,Express**
 
-- 📫 How to reach me **sadikmuktadir2.0@gmail.com**
+- 📫 How to reach me **sadikmoktadirweb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
