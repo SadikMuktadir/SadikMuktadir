@@ -13,7 +13,7 @@ Skills:  REACT , JS , HTML , CSS , Node JS , Express JS , MongoDB
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SadikMuktadir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-sadik-muktadir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sadikmuktadir.mithun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sadikmoktadir-59e6a.web.app/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadikMuktadir)](https://github.com/anuraghazra/github-readme-stats)| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> <a href="https://github.com/SadikMuktadir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadikMuktadir&theme=github_dark&layout=compact&hide_border=true" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadikMuktadir)](https://github.com/anuraghazra/github-readme-stats)| <a href="https://github.com/anuraghazra/github-readme-stats">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SadikMuktadir&show_icons=true&count_private=true)  
 
