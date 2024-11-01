@@ -20,7 +20,7 @@ Skills:  REACT , JS , HTML , CSS , Node JS , Express JS , MongoDB
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SadikMuktadir)  
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadikMuktadir&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
