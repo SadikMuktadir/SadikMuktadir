@@ -30,8 +30,9 @@ Skills:  REACT , JS , HTML , CSS , Node JS , Express JS , MongoDB
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadikmuktadir&" alt="sadikmuktadir" /></p>
 
-
-
+![SadikMuktadir's Stats](https://github-readme-stats.vercel.app/api?username=SadikMuktadir&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![SadikMuktadir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SadikMuktadir&theme=tokyonight&hide_border=true)
+![SadikMuktadir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SadikMuktadir&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 
